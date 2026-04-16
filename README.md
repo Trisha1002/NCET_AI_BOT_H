@@ -1,9 +1,16 @@
-#NCET_GenAI_Bot The Project:
+# 🎨 Text-to-Image Generator
 
-1.LLM Based Bot using GROQ and LLAMA.
+A deep learning project that generates high-quality images from text prompts using [Stable Diffusion](https://github.com/compvis/stable-diffusion) (or your specific model).
 
-2.Streamlit UI
+## 🚀 Features
+* **Prompt Engineering:** Supports complex text descriptions to generate detailed artwork.
+* **Batch Generation:** Generate multiple images for a single prompt.
+* **Custom Models:** Easy to swap between different pre-trained weights (e.g., SDXL, Realistic Vision).
+* **GPU Accelerated:** Optimized for NVIDIA GPUs using CUDA.
 
-3.Deployed over Streamlit.io
+## 🛠️ Installation
 
-Usage: Click APP Link and Use AI Bot and Enjoy
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   cd text-to-image-project
